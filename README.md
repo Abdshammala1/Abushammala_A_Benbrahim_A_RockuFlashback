@@ -1,16 +1,13 @@
-# Abushammala_A_Benbrahim_A_RockuFlashback
+# Roku Flashback
 
-
-Building Roku Flashback as a web app for both mobile and desktop 
-Users can access movies , Tv shows and music all before 1990's
+This is an assignment on building Roku Flashback as a web app for both mobile and desktop 
+Users can access movies, TV shows and music that were made before 1990's.
 
 The build will begin in January 2021.
 
 
 
-Designer : Abdalrahman Abushammala
-Developer : Ahmed Benbrahim
-
+### Getting Started
 
 Languages that will be used are :
 HTML
@@ -21,3 +18,25 @@ VUEJS
 AJAX 
 MYSQL
 PHP
+
+### Prerequisites
+Any browser of your choice and a local host server will get the job done!
+
+### Videos
+There will be videos for this assignment and a link to download the videos will be provided.
+
+### Authors
+Ahmed Benbrahim
+Abdalrahman Abushammala
+
+### License
+This project is licensed under the MIT license.
+
+
+
+
+
+
+
+
+
