@@ -26,7 +26,7 @@ Any browser of your choice and a local host server will get the job done!
 There will be videos for this assignment and a link to download the videos will be provided.
 
 ### Authors
-Ahmed Benbrahim
+Ahmed Benbrahim and
 Abdalrahman Abushammala
 
 ### License
