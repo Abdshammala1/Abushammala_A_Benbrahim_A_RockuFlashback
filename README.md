@@ -10,13 +10,13 @@ The build will begin in January 2021.
 ### Getting Started
 
 Languages that will be used are :
-HTML
-CSS
-SASS
-JS
-VUEJS
-AJAX 
-MYSQL
+HTML,
+CSS,
+SASS,
+JS,
+VUEJS,
+AJAX, 
+MYSQL and
 PHP
 
 ### Prerequisites
